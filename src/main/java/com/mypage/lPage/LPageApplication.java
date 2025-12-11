@@ -1,0 +1,13 @@
+package com.mypage.lPage;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LPageApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(LPageApplication.class, args);
+	}
+
+}
